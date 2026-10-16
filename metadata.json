@@ -1,0 +1,6 @@
+{
+  "name": "SG AirGuard - Live Singapore PSI & Air Quality Monitor",
+  "description": "Live Singapore PSI and air quality monitoring app with interactive regional maps, real-time NEA data, customizable threshold alerts, health advisories, and push notifications.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
